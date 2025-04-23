@@ -1,15 +1,15 @@
 ## Bem-vindo(a) ao meu repositório 😁
-
+<p>
+ Profissional com mais de 7 anos de experiência em TI, em transição para a área de QA e Automação de Testes. Atuação com desenvolvimento web, automação de tarefas, suporte técnico e  testes integrados. Conhecimentos em Python, PHP, JavaScript, SQL, Git e metodologias ágeis (Scrum).
+</p>
  <div>
   <a href="https://github.com/tiagosantos0412">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagosantos0412&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosantos0412&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="PYTHON" height="30" width="40" src="https://avatars.githubusercontent.com/u/8908513?s=48&v=4">
   <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 </div>
  
