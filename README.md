@@ -11,11 +11,12 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PYTHON" height="30" width="40" src="https://avatars.githubusercontent.com/u/8908513?s=48&v=4">
   <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="PYTHON" height="30" width="40" src="https://www.svgrepo.com/show/354321/selenium.svg">
 </div>
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Minhas Redes sociais!
  
 <div> 
   <a href="https://instagram.com/tiaago_dossantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
